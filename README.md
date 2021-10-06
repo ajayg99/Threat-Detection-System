@@ -1,5 +1,5 @@
 # Threat Detection System
-Used pre-trained weights from WaqasSultani's Threat detection model trained using C3D features combined it with regiona based Cnn to detect weapons(Probability) and took their mean as the
+Used pre-trained weights from WaqasSultani's Threat detection model trained using C3D features combined it with region based Cnn to detect weapons(Probability) and took their mean as the
 threat score.
 ###### Annotated Images Using - <a href="https://github.com/tzutalin/labelImg " target="_blank">LabelImg</a>
 # Output
